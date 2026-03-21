@@ -23,6 +23,7 @@ test('login test', async()=>{
     expect(title).toEqual('Demo Web Shop');
     browser.close();
     console.log("Login Test - FINAL");
+    console.log("Feature-Branch");
 
 
 })
