@@ -24,7 +24,7 @@ test('login test', async()=>{
     browser.close();
     console.log("Login Test - FINAL");
     console.log("Feature-Branch");
-    console.log("faeture1")
-
+    console.log("faeture1");
+    console.log("main1");
 
 })
